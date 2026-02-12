@@ -213,7 +213,7 @@ Built for the **Bringing Agentic AI to Cloud Native** hackathon.
 ### Powered By
 
 - [kagent.dev](https://kagent.dev) - Agent orchestration framework
-- [kagent.dev](https://kgateway.dev) - The Cloud-Native API Gateway and AI Gateway
+- [kgateway.dev](https://kgateway.dev) - The Cloud-Native API Gateway and AI Gateway
 
 ### Inspiration
 
